@@ -1,5 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Ubuntu';
-@import url(http://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
 
 body {
 	background-color: 424242;
@@ -31,7 +31,7 @@ span#date{
 	font-size: 15;
 	float: right;
 	text-align: right;
-	color: E0E0E0;
+	color: #E0E0E0;
 	font-family: 'Quicksand', sans-serif;
 }
 
