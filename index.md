@@ -1,3 +1,4 @@
+<a name="7"></a>
 ## The problem with monetized health care
 #### Wednesday 12/04/2017
 
@@ -10,7 +11,7 @@ So, long time no see. I guess it's not so much see. Long time no read? Lots has 
 * 518 days have passed.
 * I've redesigned my blog.
 
-Do you like it? If you miss the old one it's always [here](https://solarpolarman.github.io/old-blog/). But from the title I'm sure you can tell that this post isn't about web design. It's about what I see as a frightening shift in the way the UK handles health care. The monetization and privatization of our public health care.
+Do you like it? If you miss the old one it's always [here](https://chidishgiant.github.io/old-blog/). But from the title I'm sure you can tell that this post isn't about web design. It's about what I see as a frightening shift in the way the UK handles health care. The monetization and privatization of our public health care.
 
 The third (and hopefully last) mental health ward I lived on was "Cambian Willows". A private hospital with an [ugly website](http://www.cambiangroup.com/ourservices/service/home.aspx?id=86&s=24). Sorry I promised this wasn't about web design. Although it was a private hospital: in the ~3 months I was there, to my knowledge, all of the patients who passed through the doors were paid for be the NHS. You may be thinking "Why is that a problem? The NHS are still paying for your health care!" but I'll argue my case. I'm going to be talking only about the child services, as those were the ones I was in.
 
@@ -46,15 +47,19 @@ Sources:<br>
 <a name="Source1"></a>1. [^](#cite_ref-1) (14/09/2016) ["2016 H1 Results" ](http://www.cambiangroup.com/portals/0/investorrelations/1ae461c9-5975-4088-9f13-eb6b27bbf46b.pdf)<br>
 <a name="Source2"></a>2. [^](#cite_ref-2) Department of Health (2015) [NHS reference costs 2013-2014](https://www.gov.uk/government/publications/nhs-reference-costs-2013-to-2014)
 
-----
+[Direct link to this post](#7)
 
+----
+<a name="6"></a>
 ## Life Support
 #### Wednesday 11/11/2015
 
   I was locked up to keep me away from everything. I lost friends. My friends are my life support. They took away my life support. Now they are trying to take my life support again. This isn't a metaphor: these people have stopped me dying. They are trying to kill me. I ask them why and they say it's none of my business. I hate them. They are making me hate my life again. They want me to die. I might give in.
 
-----
+[Direct link to this post](#6)
 
+----
+<a name="5"></a>
 ## Small
 #### Saturday 4/7/2015
 
@@ -62,8 +67,10 @@ I lay in my bed, unable to sleep, staring out of my window up to the stars. This
 
 P.S: Sorry this is short and virtually pointless :P
 
-----
+[Direct link to this post](#5)
 
+----
+<a name="4"></a>
 ## Living on a Mental Health Ward Part 4: Weed Brownies
 #### Sunday 7/6/2015
 
@@ -72,15 +79,19 @@ Changing your point of view is hard. Your brain has to admit it's made a mistake
 
 I came back off leave and went to the kitchen. One patient made some cake. Then, her brain decided to make a joke that I would not perceive as a humorous comment: rather a fact. "I put weed in the cake". I immediately stopped. I hadn't eaten any. After 10 mins I tried some and it tasted normal. But my brain "knew" it was tainted so told me it tasted strange. After this I stopped eating it and instead developed heartburn. Cannabis, if anything, actually helps cure heartburn. But I didn't know this. I was presented with barrels of evidence against it being true yet my body still comes up with a placebo symptom.
 
-----
+[Direct link to this post](#4)
 
+----
+<a name="3"></a>
 ## Living on a Mental Health Ward Part 3: Magical Healing
 #### Monday 18/5/2015
 
 I was an emergency admission. I had 5 hours from being told to being taken 60 miles away from home so I could be safe. A prison sentence of indefinite length. It was a punishment for no crime. You can see this in my other posts. But slowly overtime I have come to realise that this is not a prison: if it were a prison I wouldn't be allowed on trips to the park, or out to the cinema with my friends or to the shops to buy a pot noodle.  I'm not here. as a punishment; I'm here to recover. This (as the name implies) is a hospital. And healing takes time. When an arm is broken it's put in a cast, but there are no casts for mental illnesses. You have to let it heal slowly over time. And sure you can speed up the process with therapy and pharmaceuticals. But bones don't heal overnight - why do we expect minds to?
 
-----
+[Direct link to this post](#3)
 
+----
+<a name="2"></a>
 ## Living on a Mental Health Ward Part 2: The Innate Fear
 #### Thursday 14/5/2015
 
@@ -89,8 +100,10 @@ I am surrounded by suicidal teens like myself yet I have discovered that no matt
 
 Today I was doing my maths and saw a girl in the corner crying. I walked over to her and asked her what was wrong. She mouthed some words and pointed to the door. I pulled a scrap of paper from my pocket and asked her to write it down. She wrote the words: "There is a person. He says he's come to kill me". Tears streamed down her face as she backed into the corner. This was, of course, a hallucination. Something her own mind created. The suicidal girl who doesn't want to die.
 
-----
+[Direct link to this post](#2)
 
+----
+<a name="1"></a>
 ## Living on a Mental Health Ward Part 1: Class Detentions
 #### Monday 11/5/2015
 
@@ -101,6 +114,8 @@ The other day I came back onto the ward after going home to play video games and
 
 
 The next morning went ahead as usual. In the afternoon, once lessons were over, everyone in the facility had their rooms searched top to bottom. Many of the patients who have OCD were traumatized by this. But I guess that life's just not fair when you're imprisoned for no crime. And in case you're wondering: Yes. The scissors are still at large.
+
+[Direct link to this post](#1)
 
 
 <style>
