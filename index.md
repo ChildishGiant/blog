@@ -11,7 +11,7 @@ So, long time no see. I guess it's not so much see. Long time no read? Lots has 
 * 518 days have passed.
 * I've redesigned my blog.
 
-Do you like it? If you miss the old one it's always [here](https://chidishgiant.github.io/old-blog/). But from the title I'm sure you can tell that this post isn't about web design. It's about what I see as a frightening shift in the way the UK handles health care. The monetization and privatization of our public health care.
+Do you like it? If you miss the old one it's always [here](https://childishgiant.github.io/old-blog/). But from the title I'm sure you can tell that this post isn't about web design. It's about what I see as a frightening shift in the way the UK handles health care. The monetization and privatization of our public health care.
 
 The third (and hopefully last) mental health ward I lived on was "Cambian Willows". A private hospital with an [ugly website](http://www.cambiangroup.com/ourservices/service/home.aspx?id=86&s=24). Sorry I promised this wasn't about web design. Although it was a private hospital: in the ~3 months I was there, to my knowledge, all of the patients who passed through the doors were paid for be the NHS. You may be thinking "Why is that a problem? The NHS are still paying for your health care!" but I'll argue my case. I'm going to be talking only about the child services, as those were the ones I was in.
 
