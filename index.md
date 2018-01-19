@@ -7,7 +7,7 @@ Aaron Swartz made world changing software and then killed himself.
 My birth certificate was a waste of ink. This blog is a waste of bandwidth and storage on some server github is keeping up well past my death.
 I could probably overdose but I wouldn't die and I'm way too much of a wimp to actually commit to commiting.
 
-
+----
 <a name="7"></a>
 ## The problem with monetized health care
 #### Wednesday 12/04/2017
